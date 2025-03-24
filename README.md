@@ -1,4 +1,4 @@
-``def calculadora():
+def calculadora():
     nun1 = float(input("ingrese el primer numero: "))
     num2 = float(input("ingrese el segundo nuemro: "))
     operacion = input("ingrese la operacion (+,-,*,/): ")
